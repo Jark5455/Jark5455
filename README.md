@@ -5,5 +5,6 @@
 
 - 📝 I regularly write articles on [jark5455.github.io](https://jark5455.github.io)
 
-
+<center>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jark5455&theme=dark&show_icons=true&hide_border=true&layout=compact)
+</center>
