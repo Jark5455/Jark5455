@@ -5,4 +5,3 @@
 
 - 📝 I sometimes write articles on [jark5455.github.io](https://jark5455.github.io)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Jark5455&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Jark5455&langs_count=4&theme=dark_github)
